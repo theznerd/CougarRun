@@ -3,3 +3,11 @@ title: Cougar Run Elementary
 description: Quick links for Cougar Run Elementary
 
 include: ["_pages"]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
