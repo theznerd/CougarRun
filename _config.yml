@@ -2,6 +2,8 @@ remote_theme: mmistakes/minimal-mistakes
 title: Cougar Run Elementary
 description: Quick links for Cougar Run Elementary
 
+minimal_mistakes_skin: "dark"
+
 include: ["_pages"]
 
 plugins:
