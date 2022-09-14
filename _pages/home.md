@@ -12,4 +12,4 @@ header:
 # Quick Links
 {: .text-center}
 
-[Text](#link){: .btn .btn--primary .btn--block}
+[<i class='fa fa-home'></i> Home](#link){: .btn .btn--primary .btn--block}
