@@ -11,3 +11,5 @@ header:
 ---
 # Quick Links
 {: .text-center}
+
+[Text](#link){: .btn .btn--primary .btn--block}
