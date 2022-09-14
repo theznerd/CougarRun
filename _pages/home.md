@@ -9,4 +9,5 @@ header:
   overlay_image: /assets/cougarrun.jpg
   
 ---
-# Cougar Run Elementary {: .text-center}
+# Cougar Run Elementary 
+{: .text-center}
