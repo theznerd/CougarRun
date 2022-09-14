@@ -2,7 +2,6 @@
 title: "Cougar Run Elementary"
 layout: splash
 permalink: /
-tagline: "</br></br>"
 
 header:
   overlay_color: "#000"
