@@ -12,4 +12,4 @@ header:
 # Quick Links
 {: .text-center}
 
-[<i class='fa fa-home'></i> Home](#link){: .btn .btn--primary .btn--block}
+[<i class='fa fa-phone'></i> Call Cougar Run (303)-387-6675](tel:+13033876675){: .btn .btn--x-large .btn--primary .btn--block}
