@@ -16,4 +16,12 @@ header:
 
 [<i class='fa fa-bacon'></i> Today's Breakfast Menu](https://dcsd.nutrislice.com/menu/cougar-run/breakfast){: .btn .btn--x-large .btn--primary .btn--block}
 
-[<i class='fa fa-burger'></i> Today's Lunch Menu](https://dcsd.nutrislice.com/menu/cougar-run/lunch/){: .btn .btn--x-large .btn--primary .btn--block}
+[<i class='fa fa-hamburger'></i> Today's Lunch Menu](https://dcsd.nutrislice.com/menu/cougar-run/lunch/){: .btn .btn--x-large .btn--primary .btn--block}
+
+[<i class='fa fa-user'></i> Parent Portal](https://campus.dcsdk12.org/icprod/portal/icprod.jsp){: .btn .btn--x-large .btn--primary .btn--block}
+
+[<i class='fa fa-users'></i> Community Connections Newsletter](https://crun.dcsdk12.org/cougar_community_connections){: .btn .btn--x-large .btn--primary .btn--block}
+
+[<i class='fa fa-calendar'></i> School Calendar](https://crun.dcsdk12.org/our_school/calendar){: .btn .btn--x-large .btn--primary .btn--block}
+
+[<i class='fa fa-calendar-alt'></i> DSCD Calendar](https://cdn5-ss14.sharpschool.com/UserFiles/Servers/Server_220400/File/Academic-Calendar/BOE%20Approved%20Calendars.xlsx%20-%2022-23%20(C)%20v2.pdf){: .btn .btn--x-large .btn--primary .btn--block}
