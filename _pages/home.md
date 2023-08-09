@@ -24,4 +24,4 @@ header:
 
 [<i class='fa fa-calendar'></i> School Calendar](https://crun.dcsdk12.org/our_school/calendar){: .btn .btn--x-large .btn--primary .btn--block}
 
-[<i class='fa fa-calendar-alt'></i> DCSD Calendar](https://cdn5-ss14.sharpschool.com/UserFiles/Servers/Server_220400/File/Academic-Calendar/BOE%20Approved%20Calendars.xlsx%20-%2022-23%20(C)%20v2.pdf){: .btn .btn--x-large .btn--primary .btn--block}
+[<i class='fa fa-calendar-alt'></i> DCSD Calendar](https://cdnsm5-ss14.sharpschool.com/UserFiles/Servers/Server_220400/File/Academic-Calendar/2023-2024/BOE%20Approved%20Calendars%202023-24%20(C)%20V.2.1.pdf){: .btn .btn--x-large .btn--primary .btn--block}
